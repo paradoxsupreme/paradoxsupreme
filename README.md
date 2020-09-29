@@ -8,3 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxsupreme&langs_count=10)](https://github.com/paradoxsupreme/github-readme-stats)
 
+<p align="center">
+<a href="#">
+    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxsupreme&hide=html,&hide_border=true&title_color=63c5ea&text_color=fa74b2&count_private=true"/>
+</a>
+</p>
