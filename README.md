@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://github.com/owl4ce/owl4ce/tree/master/assets">
-    <img width="100%" src="https://github.com/owl4ce/owl4ce/blob/master/assets/workstation.gif">
+<a href="https://github.com/paradoxsupreme/paradoxsupreme/tree/master/assets">
+    <img width="100%" src="https://raw.githubusercontent.com/paradoxsupreme/paradoxsupreme/master/assets/IkdLIvu.gif">
 </a>
 </p>
 <p align="center">
