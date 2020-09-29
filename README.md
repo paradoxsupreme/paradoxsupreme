@@ -1,4 +1,12 @@
-[![paradoxsupreme's github stats](https://github-readme-stats.vercel.app/api?username=paradoxsupreme&count_private=true&show_icons=true&theme=buefy)](https://github.com/paradoxsupreme/paradoxsupreme)
+
+<p align="center">
+    <a href="https://github.com/paradoxsupreme" target="_blank">
+        <img alt="GitHub Hits" src="https://badges.pufler.dev/visits/owl4ce/paradoxsupreme?style=flat-square&label=Visits&color=success&logo=GitHub&logoColor=white&labelColor=373e4d"/>
+    </a>
+    <a href="https://github.com/paradoxsupreme/paradoxsupreme" target="_blank">
+        <img alt="GitHub Updates" src="https://img.shields.io/github/last-commit/owl4ce/paradoxsupreme?style=flat-square&label=Updated&labelColor=373e4d&color=44cc11"/>
+    </a>
+</p>
 
 <p align="center">
 <a href="#">
@@ -6,7 +14,6 @@
 </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxsupreme&langs_count=10)](https://github.com/paradoxsupreme/github-readme-stats)
 <details>
 <summary></summary>
 <p align="center">
