@@ -4,7 +4,7 @@
         <img alt="GitHub Hits" src="https://badges.pufler.dev/visits/paradoxsupreme?style=flat-square&label=Visits&color=success&logo=GitHub&logoColor=white&labelColor=373e4d"/>
     </a>
     <a href="https://github.com/paradoxsupreme/paradoxsupreme" target="_blank">
-        <img alt="GitHub Updates" src="https://img.shields.io/github/last-commit/owl4ce/paradoxsupreme?style=flat-square&label=Updated&labelColor=373e4d&color=44cc11"/>
+        <img alt="GitHub Updates" src="https://img.shields.io/github/last-commit/paradoxsupreme/paradoxsupreme?style=flat-square&label=Updated&labelColor=373e4d&color=44cc11"/>
     </a>
 </p>
 
