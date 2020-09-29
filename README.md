@@ -1,7 +1,6 @@
 <p align="center">
 <a href="https://github.com/paradoxsupreme/paradoxsupreme/tree/master/assets">
     <img width="50%" src="https://github.com/paradoxsupreme/paradoxsupreme/blob/master/assets/IkdLIvu.gif">
-    <img width="50%" src="https://github.com/paradoxsupreme/paradoxsupreme/blob/master/assets/dkINxI.gif">
 </a>
 </p>
 <p align="center">
@@ -27,3 +26,4 @@
 </a>
 </p>
 </details>
+
