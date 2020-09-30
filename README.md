@@ -11,7 +11,7 @@
         <img alt="GitHub Hits" src="https://badges.pufler.dev/visits/paradoxsupreme/paradoxsupreme?style=flat-square&label=Visits&color=success&logo=GitHub&logoColor=white&labelColor=373e4d"/>
     </a>
     <a href="https://github.com/paradoxsupreme/paradoxsupreme" target="_blank">
-        <img alt="GitHub Updates" src="https://img.shields.io/github/last-commit/paradoxsupreme/paradoxsupreme?style=flat-square&label=Updated&labelColor=373e4d&color=44cc11"/>
+        <img alt="GitHub Updates" src="https://github-readme-stats.vercel.app/api?username=paradoxsupreme&count_private=true&show_icons=true&hide_border=true&icon_color=cf8ef4&title_color=63c5ea&text_color=fa74b2"/>
     </a>
 </p>
 <p align="center">
