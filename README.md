@@ -1,8 +1,4 @@
-<p align="center">
-<a href="https://github.com/paradoxsupreme/paradoxsupreme/tree/master/assets">
-    <img width="60%" src="https://github.com/paradoxsupreme/paradoxsupreme/blob/master/assets/IkdLIvu.gif">
-</a>
-</p>
+
 <p align="center">
     <a href="https://github.com/paradoxsupreme" target="_blank">
         <img alt="GitHub Hits" src="https://badges.pufler.dev/visits/paradoxsupreme/paradoxsupreme?style=flat-square&label=Visits&color=success&logo=GitHub&logoColor=white&labelColor=373e4d"/>
@@ -10,6 +6,11 @@
     <a href="https://github.com/paradoxsupreme/paradoxsupreme" target="_blank">
         <img alt="GitHub Updates" src="https://img.shields.io/github/last-commit/paradoxsupreme/paradoxsupreme?style=flat-square&label=Updated&labelColor=373e4d&color=44cc11"/>
     </a>
+</p>
+<p align="center">
+<a href="https://github.com/paradoxsupreme/paradoxsupreme/tree/master/assets">
+    <img width="60%" src="https://github.com/paradoxsupreme/paradoxsupreme/blob/master/assets/IkdLIvu.gif">
+</a>
 </p>
 <p align="center">
 <a href="#">
