@@ -21,7 +21,7 @@
 <summary></summary>
 <p align="center">
 <a href="#">
-    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxsupreme&hide=html,&hide_border=true&title_color=63c5ea&text_color=fa74b2&langs_count=10"/>
+    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxsupreme&hide=html,&hide_border=true&title_color=6c88f0&text_color=fa74b2&langs_count=10"/>
 </a>
 </p>
 </details>
