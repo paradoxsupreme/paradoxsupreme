@@ -16,7 +16,7 @@
 </p>
 <p align="center">
 <a href="#">
-    <img alt=https://github-readme-stats.vercel.app/api?username=paradoxsupreme&count_private=true&show_icons=true&hide_border=true&icon_color=cf8ef4&title_color=63c5ea&text_color=fa74b2"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paradoxsupreme&count_private=true&show_icons=true&hide_border=true&icon_color=cf8ef4&title_color=63c5ea&text_color=fa74b2"/>
 </a>
 </p>
 
