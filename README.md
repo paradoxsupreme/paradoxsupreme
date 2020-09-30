@@ -13,7 +13,7 @@
 </p>
 <p align="center">
 <a href="#">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paradoxsupreme&count_private=true&show_icons=true&hide_border=true&icon_color=cf8ef4&title_color=6c88f0&text_color=fa74b2"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paradoxsupreme&count_private=true&show_icons=true&hide_border=true&icon_color=fa8abe&title_color=6c88f0&text_color=fa8abe"/>
 </a>
 </p>
 
@@ -21,7 +21,7 @@
 <summary></summary>
 <p align="center">
 <a href="#">
-    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxsupreme&hide=html,&hide_border=true&title_color=6c88f0&text_color=fa74b2&langs_count=10"/>
+    <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxsupreme&hide=html,&hide_border=true&title_color=6c88f0&text_color=fa8abe&langs_count=10"/>
 </a>
 </p>
 </details>
