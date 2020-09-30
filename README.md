@@ -1,3 +1,6 @@
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paradoxsupreme&count_private=true)
+
+
 <p align="center">
 <a href="https://github.com/paradoxsupreme/paradoxsupreme/tree/master/assets">
     <img width="60%" src="https://github.com/paradoxsupreme/paradoxsupreme/blob/master/assets/IkdLIvu.gif">
@@ -11,7 +14,6 @@
         <img alt="GitHub Updates" src="https://img.shields.io/github/last-commit/paradoxsupreme/paradoxsupreme?style=flat-square&label=Updated&labelColor=373e4d&color=44cc11"/>
     </a>
 </p>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paradoxsupreme&count_private=true)
 <p align="center">
 <a href="#">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paradoxsupreme&show_icons=true&hide_border=true&icon_color=cf8ef4&title_color=63c5ea&text_color=fa74b2&count_private=true"/>
