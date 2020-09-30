@@ -1,6 +1,3 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=paradoxsupreme&count_private=true&show_icons=true&hide_border=true&icon_color=cf8ef4&title_color=63c5ea&text_color=fa74b2)
-
-
 <p align="center">
 <a href="https://github.com/paradoxsupreme/paradoxsupreme/tree/master/assets">
     <img width="60%" src="https://github.com/paradoxsupreme/paradoxsupreme/blob/master/assets/IkdLIvu.gif">
