@@ -14,7 +14,7 @@
 </p>
 <p align="center">
 <a href="#">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paradoxsupreme&count_private=true&show_icons=true&hide_border=true&icon_color=a673ff&title_color=6c88f0&text_color=fa71b1&bg_color=434e61"/>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paradoxsupreme&count_private=true&show_icons=true&hide_border=true&icon_color=a673ff&title_color=6c88f0&text_color=fa71b1&bg_color=57637a"/>
 </a>
 </p>
 
